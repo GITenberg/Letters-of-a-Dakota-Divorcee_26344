@@ -1,0 +1,24 @@
+_repo: Letters-of-a-Dakota-Divorcee_26344
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burr, Jane
+    gutenberg_agent_id: '31929'
+    url: http://www.gutenberg.org/2009/agents/31929
+description: ''
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26344'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Divorced women -- Fiction'
+- !lcc 'PS'
+title: Letters of a Dakota Divorcee
+url: http://www.gutenberg.org/ebooks/26344
